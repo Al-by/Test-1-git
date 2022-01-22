@@ -1,1 +1,4 @@
 Este es otro texto de prueba para el segundo commit en github
+
+
+y este es un texto hecho desde github, que se mandará al repo local por medio del pull (creo xd)
